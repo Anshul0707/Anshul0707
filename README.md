@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Anshul
 #### I am BackEnd Developer.
-![I am BackEnd Developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I'm Anshul from India and I make some projects for  Development. 
 I enjoy learning new languages and frameworks like Spring MVC and spring-boot and working in GitHub.
 
