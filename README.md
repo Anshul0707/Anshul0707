@@ -25,3 +25,49 @@
 </p>
 
 <img  src="https://github.com/Anshul0707/Anshul0707/blob/main/image/borderseperator.gif">
+
+<!-- new -->
+
+<h2 align="center"> 🔭 Tools of Trade</h2>
+<p align="center">
+    <img src=https://img.shields.io/badge/C-2980b9?style=for-the-badge&logo=c&logoColor=white/>&nbsp;&nbsp;&nbsp;
+    <img src=https://img.shields.io/badge/Java-43b02a?style=for-the-badge&logo=java&logoColor=white/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-14354C?style=for-the-badge&logo=Html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-39457E?style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Bootstrap-D24939?style=for-the-badge&logo=Bootstrap&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Spring-56D686?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-0078d7?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
+</p>
+
+
+<img  src="https://github.com/Anshul0707/Anshul0707/blob/main/image/borderseperator.gif">
+
+<h2 align="center"> 🔭⬇️ All My Repositories </h2>
+
+#### My Github Stats
+<p align="center">
+<a href="https://github.com/Anshul0707/github-readme-stats"><img alt="Anshul Markwade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anshul0707&show_icons=true&count_private=true&theme=transparent&border_color=DDDAD5&text_color=e6b400&icon_color=D24939&title_color=D24939&ring_color=D24939&include_all_commits=true&border_radius=20"/></a>
+</p>
+
+####    My Github Streaks
+
+ <p align="center">
+    <a href="https://github.com/Anshul0707/github-readme-streak-stats">
+     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anshul Markwade's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul0707&show_icons=true&count_private=true&theme=gruvbox&background=D24939&border=DDDAD5&stroke=DBDDD3&ring=FEFEFE&dates=F0F4F0&currStreakNum=DDBE28&border=DDDAD5&currStreakLabel=DDBE28&border_radius=20"/>
+    </a>
+</p>
+
+#### Top Languages
+<p align="center">
+<a href="https://github.com/Anshul0707/github-readme-stats"><img alt="Anshul Markwade's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul0707&langs_count=8&count_private=true&layout=compact&theme=transparent&border_color=DDDAD5&title_color=D24939&text_color=e6b400&border_radius=20"/></a>
+</p>
+
+
+  <!--  </div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@meshramrajlaxmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@meshramrajlaxmi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/rajlaxmi024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rajlaxmi024" height="30" width="40" /></a>
+</p>-->
