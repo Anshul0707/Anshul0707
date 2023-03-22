@@ -43,11 +43,11 @@
 </p>
 
 <img  src="https://github.com/Anshul0707/Anshul0707/blob/main/image/borderseperator.gif">
-<!-- <div align="center">
+<div align="center">
 
 ![Snake animation](https://github.com/Anshul0707/Anshul0707/blob/output/github-contribution-grid-snake.svg)
 
-</div> -->
+</div>
 
 <img  src="https://github.com/Anshul0707/Anshul0707/blob/main/image/borderseperator.gif">
 
