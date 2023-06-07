@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anshul0707&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
--🌱 I’m currently learning **Java Spring Boot**
+-🌱 I’m currently working on **Java Spring Boot**
 
 -👯 I’m looking to collaborate on **Web based Open Source Project**
 
